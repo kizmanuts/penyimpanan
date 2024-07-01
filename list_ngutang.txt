@@ -1,6 +1,4 @@
 List cash bon
-1. Agus Ikan
-2. Jepri galon
-3. Sarip buah
-4. Jamal cukur
-5. Asep pengangguran
+1. Agus Ikan 100.000
+2. Jepri galon 50.000
+3. Asep pengangguran  500.000
